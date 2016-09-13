@@ -1,0 +1,9 @@
+Character Controller
+rX	right X	3	SLIDER	Z Axis	0	1.0	0.01
+rY	right y	3	SLIDER	Z Rotation	0	1.0	0.01
+lX	left x	3	SLIDER	X axis	0	1.0	0.01
+lY	left y	3	SLIDER	Y axis	0	1.0	0.01
+b1	button 1	1	BUTTON	1	0	0.0	0.0
+b2	button 2	1	BUTTON	2	0	0.0	0.0
+b3	button 3	1	BUTTON	3	0	0.0	0.0
+b4	button 4	1	BUTTON	4	0	0.0	0.0

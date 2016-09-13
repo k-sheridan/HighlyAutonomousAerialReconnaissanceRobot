@@ -1,0 +1,274 @@
+##############################################################################################
+                   ProControl Plus  - available devices
+                   ------------------------------------
+  ============================================================================
+  NAME :     Apple Keyboard
+  Type :     Keyboard
+  Port :     USB port
+    Buttons (180)
+    Type     Name                 Multiplier
+      button    Left Control        -
+      button    Left Shift          -
+      button    Left Alt            -
+      button    Left Windows        -
+      button    Right Control       -
+      button    Right Shift         -
+      button    Right Alt           -
+      button    Right Windows       -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    A                   -
+      button    B                   -
+      button    C                   -
+      button    D                   -
+      button    E                   -
+      button    F                   -
+      button    G                   -
+      button    H                   -
+      button    I                   -
+      button    J                   -
+      button    K                   -
+      button    L                   -
+      button    M                   -
+      button    N                   -
+      button    O                   -
+      button    P                   -
+      button    Q                   -
+      button    R                   -
+      button    S                   -
+      button    T                   -
+      button    U                   -
+      button    V                   -
+      button    W                   -
+      button    X                   -
+      button    Y                   -
+      button    Z                   -
+      button    1                   -
+      button    2                   -
+      button    3                   -
+      button    4                   -
+      button    5                   -
+      button    6                   -
+      button    7                   -
+      button    8                   -
+      button    9                   -
+      button    0                   -
+      button    Return              -
+      button    Escape              -
+      button    Back                -
+      button    Tab                 -
+      button                        -
+      button    -                   -
+      button    =                   -
+      button    [                   -
+      button    ]                   -
+      button    \                   -
+      button    .                   -
+      button    ;                   -
+      button    '                   -
+      button    ~                   -
+      button    ,                   -
+      button    .                   -
+      button    /                   -
+      button    Caps Lock           -
+      button    F1                  -
+      button    F2                  -
+      button    F3                  -
+      button    F4                  -
+      button    F5                  -
+      button    F6                  -
+      button    F7                  -
+      button    F8                  -
+      button    F9                  -
+      button    F10                 -
+      button    F11                 -
+      button    F12                 -
+      button    SysRq               -
+      button    Scroll Lock         -
+      button    Pause               -
+      button    Insert              -
+      button    Home                -
+      button    Pg Up               -
+      button    Delete              -
+      button    End                 -
+      button    Pg Down             -
+      button    Right               -
+      button    Left                -
+      button    Down                -
+      button    Up                  -
+      button    Num Lock            -
+      button    Num /               -
+      button    Unknown             -
+      button    Num -               -
+      button    Num +               -
+      button    Num Enter           -
+      button    Num 1               -
+      button    Num 2               -
+      button    Num 3               -
+      button    Num 4               -
+      button    Num 5               -
+      button    Num 6               -
+      button    Num 7               -
+      button    Num 8               -
+      button    Num 9               -
+      button    Num 0               -
+      button    Num .               -
+      button    \                   -
+      button    Apps                -
+      button    Power               -
+      button    Num =               -
+      button    F13                 -
+      button    F14                 -
+      button    F15                 -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Stop                -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Caps Lock           -
+      button    Num Lock            -
+      button    Scroll Lock         -
+      button    ,                   -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    SysRq               -
+      button    Unknown             -
+      button    Unknown             -
+      button    Pg Up               -
+      button    Return              -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Unknown             -
+      button    Left Control        -
+      button    Left Shift          -
+      button    Left Alt            -
+      button    Left Windows        -
+      button    Right Control       -
+      button    Right Shift         -
+      button    Right Alt           -
+      button    Right Windows       -
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ============================================================================
+  NAME :     Logitech Extreme 3D
+  Type :     Stick
+  Port :     USB port
+    Buttons (13)
+    Type     Name                 Multiplier
+      button    0                   -
+      button    1                   -
+      button    2                   -
+      button    3                   -
+      button    4                   -
+      button    5                   -
+      button    6                   -
+      button    7                   -
+      button    8                   -
+      button    9                   -
+      button    10                  -
+      button    11                  -
+      hat       pov                 1.0            
+    Sliders (4)
+    Type     Name                 Multiplier     Tolerance
+      hat       x                   1.0            0.0            absolute
+      hat       y                   1.0            0.0            absolute
+      hat       rz                  1.0            0.0            absolute
+      hat       slider              1.0            0.0            absolute
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ============================================================================
+  NAME :     Peter Lager’s Mouse
+  Type :     Mouse
+  Port :     Unknown
+    Buttons (2)
+    Type     Name                 Multiplier
+      button    Left                -
+      button    Right               -
+    Sliders (2)
+    Type     Name                 Multiplier     Tolerance
+      hat       x                   1.0            0.0            (relative)
+      hat       y                   1.0            0.0            (relative)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ============================================================================
+  NAME :     Apple Wireless Trackpad
+  Type :     Mouse
+  Port :     Unknown
+    Buttons (2)
+    Type     Name                 Multiplier
+      button    Left                -
+      button    Right               -
+    Sliders (2)
+    Type     Name                 Multiplier     Tolerance
+      hat       x                   1.0            0.0            (relative)
+      hat       y                   1.0            0.0            (relative)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ============================================================================
+  NAME :     Controller
+  Type :     Gamepad
+  Port :     USB port
+    Buttons (15)
+    Type     Name                 Multiplier
+      button    11                  -
+      button    12                  -
+      button    13                  -
+      button    14                  -
+      button    8                   -
+      button    9                   -
+      button    6                   -
+      button    7                   -
+      button    4                   -
+      button    5                   -
+      button    10                  -
+      button    0                   -
+      button    1                   -
+      button    2                   -
+      button    3                   -
+    Sliders (6)
+    Type     Name                 Multiplier     Tolerance
+      hat       x                   1.0            0.0            absolute
+      hat       y                   1.0            0.0            absolute
+      hat       rx                  1.0            0.0            absolute
+      hat       ry                  1.0            0.0            absolute
+      hat       z                   1.0            0.0            absolute
+      hat       rz                  1.0            0.0            absolute
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##############################################################################################
+

@@ -1,0 +1,8 @@
+Tank Controller Device
+DIR	Tank direction	3	SLIDER	x	0	1.0	0.5
+SPEED	Forward/reverse speed	3	SLIDER	y	0	1.0	0.05
+FIRE	Fire gun	1	BUTTON	0	0	0.0	0.0
+LEFT	Turn left	1	BUTTON	2	0	0.0	0.0
+RIGHT	Turn right	1	BUTTON	3	0	0.0	0.0
+T_ACLOCK	Rotate turret anti-clockwise	1	BUTTON	4	0	0.0	0.0
+T_CLOCK	Rotate turret clockwise	1	BUTTON	5	0	0.0	0.0

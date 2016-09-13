@@ -1,0 +1,11 @@
+flight sim controller
+rX	right stick X	3	SLIDER	X Axis	0	1.0	0.0
+rY	right stick Y	3	SLIDER	Y Axis	0	1.0	0.0
+lX	left stick X	3	SLIDER	Y Rotation	0	1.0	0.0
+lY	left stick Y	3	SLIDER	Z Axis	0	1.0	0.0
+kZ	twist knob Z	3	SLIDER	X Rotation	0	1.0	0.0
+s1	top left switch	1	BUTTON	Button 0	0	0.0	0.0
+s2	back right switch	1	BUTTON	Button 1	0	0.0	0.0
+b3	red button	1	BUTTON	Button 2	0	0.0	0.0
+s4	back right switch down	1	BUTTON	Button 3	0	0.0	0.0
+s5	back right switch up	1	BUTTON	Button 4	0	0.0	0.0

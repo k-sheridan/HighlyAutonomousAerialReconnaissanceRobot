@@ -1,0 +1,1 @@
+avrdude -P COM3 -b 19200 -c avrisp -p m8 -U flash:w:tgy.hex

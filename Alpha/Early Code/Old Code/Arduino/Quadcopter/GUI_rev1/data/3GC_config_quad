@@ -1,0 +1,18 @@
+Quadcopter Controller
+rX	right stick X	3	SLIDER	Z Axis	0	1.0	0.1
+rY	right stick Y	3	SLIDER	Z Rotation	0	1.0	0.1
+lX	left stick X	3	SLIDER	X axis	0	1.0	0.1
+lY	left stick Y	3	SLIDER	Y axis	0	1.0	0.1
+dpad	d-pad	2	HAT	cooliehat: Hat Switch	0	1.0	0.0
+b1	button 1	1	BUTTON	1	0	0.0	0.0
+b2	button 2	1	BUTTON	2	0	0.0	0.0
+b3	button 3	1	BUTTON	3	0	0.0	0.0
+b4	button 4	1	BUTTON	4	0	0.0	0.0
+b5	button 5	1	BUTTON	5	0	0.0	0.0
+b6	button 6	1	BUTTON	6	0	0.0	0.0
+b7	button 7	1	BUTTON	7	0	0.0	0.0
+b8	button 8	1	BUTTON	8	0	0.0	0.0
+b9	button 9	1	BUTTON	9	0	0.0	0.0
+b10	button 10	1	BUTTON	10	0	0.0	0.0
+b11	button 11	1	BUTTON	11	0	0.0	0.0
+b12	button 12	1	BUTTON	12	0	0.0	0.0

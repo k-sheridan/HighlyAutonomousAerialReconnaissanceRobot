@@ -1,0 +1,25 @@
+int last_accel_x = 0;
+int last_accel_y = 0;
+int last_accel_z = 110;
+
+
+
+
+
+
+int accel_delta_x;
+  int accel_delta_y;
+  int accel_delta_z;
+  
+  accel_delta_x = accel_x - last_accel_x;
+  accel_delta_y = accel_y - last_accel_y;
+  accel_delta_z = accel_z - last_accel_z;
+  
+  last_accel_x = accel_x;
+  last_accel_y = accel_y;
+  last_accel_z = accel_z;
+  
+  true_pitch = accel_delta_x;
+  true_roll = accel_delta_y;
+  true_yaw = accel_delta_z;
+----------------------------------------------------------

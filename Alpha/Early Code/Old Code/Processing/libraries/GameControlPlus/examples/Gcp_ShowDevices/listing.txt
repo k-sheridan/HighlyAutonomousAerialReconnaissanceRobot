@@ -1,0 +1,10 @@
+##############################################################################################
+                   ProControl Plus  - available devices
+                   ------------------------------------
+  0  Apple Keyboard     [Keyboard]  on  [USB port]
+  1  Logitech Extreme 3D     [Stick]  on  [USB port]
+  2  Peter Lager’s Mouse     [Mouse]  on  [Unknown]
+  3  Apple Wireless Trackpad     [Mouse]  on  [Unknown]
+  4  Controller     [Gamepad]  on  [USB port]
+##############################################################################################
+

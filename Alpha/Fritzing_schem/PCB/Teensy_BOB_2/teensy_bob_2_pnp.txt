@@ -1,0 +1,40 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=teensy_bob_2
+*Date=15:03:10
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;usb-a-s-nosilk;38.2044;-6.54975;-90;Bottom;USB PWR
+2;;;43.7444;-35.56;0;Bottom;Via4
+3;;;5.75027;-4.98299;90;Bottom;TXT3
+4;;THT;48.8244;-15.24;0;Bottom;M4
+5;;THT;8.18444;-5.08;0;Bottom;SONAR
+6;;;43.7444;-25.4;0;Bottom;Via1
+7;;;46.2338;-35.8585;90;Bottom;TXT1
+8;;;14.1817;-42.7567;0;Bottom;TXT6
+9;;;3.10444;-2.54;0;Bottom;Hole3
+10;;;19.5792;-46.0282;0;Bottom;TXT5
+11;;THT;5.64444;-15.24;0;Bottom;PI
+12;;THT;48.8244;-45.72;0;Bottom;M1
+13;;THT;48.8244;-35.56;0;Bottom;M2
+14;;;48.6128;-2.25778;0;Bottom;Hole2
+15;;;33.5844;-17.78;0;Bottom;Via2
+16;;THT;48.8244;-25.4;0;Bottom;M3
+17;;THT;45.0144;-45.6494;0;Bottom;V2
+18;;;22.7189;-13.8994;0;Bottom;Via3
+19;;;13.3703;-8.7219;90;Bottom;TXT2
+20;;;38.6644;-45.72;0;Bottom;Via5
+21;;THT;19.6144;-48.26;-90;Bottom;I2C
+22;;;19.1172;-30.4885;0;Bottom;Teensy 3.1
+23;;;3.10444;-48.26;0;Bottom;Hole1
+24;;THT;15.8044;-8.89;0;Bottom;OFS
+25;;;3.49249;-15.1185;90;Bottom;TXT4
